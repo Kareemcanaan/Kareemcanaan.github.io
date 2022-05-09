@@ -1,0 +1,87 @@
+form.head{
+    color: #fff;
+	margin-top: 380px;
+	margin-left: 45px;
+	text-align: center;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+	font-size: 55pt;
+}
+
+#navbar{
+	background-color:#50007f;
+	color:#fff;
+	text-align: right;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+    min-height: 50px;
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+
+#navbar li{
+	display:inline;
+	text-align: center;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:30px;
+	padding-right:25px;
+}
+
+form.text_1{
+    font-family: sans-serif;
+    color: #000;
+	margin-top: 650px;
+	margin-left: 230px;
+	margin-right: 230px;
+	text-align: justify;
+}
+
+form.text_2{
+    font-family: sans-serif;
+    color: #000;
+	margin-top: 100px;
+	margin-left: 230px;
+	margin-right: 230px;
+	text-align: justify;
+}
+
+form.text_3{
+	font-family: sans-serif;
+	color: #000;
+margin-top: 100px;
+margin-left: 230px;
+margin-right: 230px;
+text-align: justify;
+}
+
+span.big{
+    font-size: 65px;
+}
+
+span.it{
+    font-style: italic;
+}
+
+span.bold{
+    font-weight: bold;
+}
+
+#footer{
+	background: #50007f;
+	color:#fff;
+    font-size: 8pt;
+    font-family: sans-serif;
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+	padding-right:25px;
+	margin-top:85px;
+    min-height: 30px;
+}

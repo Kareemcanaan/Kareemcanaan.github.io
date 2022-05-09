@@ -1,0 +1,105 @@
+form.head{
+    color: #fff;
+	margin-top: 380px;
+	margin-left: 45px;
+	text-align: center;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+	font-size: 55pt;
+}
+
+#navbar{
+	background-color:#50007f;
+	color:#fff;
+	text-align: right;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+    min-height: 50px;
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+
+#navbar li{
+	display:inline;
+	text-align: center;
+
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:30px;
+	padding-right:25px;
+}
+
+form.req{
+    font-family: sans-serif;
+    color: #50007f;
+	margin-top: 600px;
+	margin-left: 230px;
+	margin-right: 230px;
+	text-align: justify;
+}
+
+form.sub_areas{
+	background-color: rgb(230, 230, 230);
+    color: #000;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.sub_areas h1{
+	margin-left: 550px;
+	margin-right: 250px;
+	text-align: left;
+    font-family: sans-serif;
+}
+
+form.text{
+    font-family: sans-serif;
+    color: #50007f;
+	margin-top: 50px;
+	margin-left: 230px;
+	margin-right: 230px;
+	text-align: justify;
+}
+
+#header{
+	text-align: center;
+	margin-bottom: 75px;
+}
+
+form.table_{
+	background-color: rgb(230, 230, 230);
+	margin-top: 50px;
+}
+
+.table_ h2{
+	margin-left: 205px;
+}
+
+.elem td{
+	padding: 12px 75px;
+	text-align: left;
+    font-family: sans-serif;
+}
+
+#topics{
+	font-weight: bold;
+}
+
+#footer{
+	background: #50007f;
+	color:#fff;
+    font-size: 8pt;
+    font-family: sans-serif;
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+	padding-right:25px;
+	margin-top:85px;
+    min-height: 30px;
+}
